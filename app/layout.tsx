@@ -10,8 +10,8 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "NextChat",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "YOUNGQIのAI小助理",
+  description: "欢迎您的使用",
   viewport: {
     width: "device-width",
     initialScale: 1,
