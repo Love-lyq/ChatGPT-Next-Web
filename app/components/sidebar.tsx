@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          YOUNGQIのGPT小助理
+          YOUNGQIのAI小助理
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          本站用爱发电，提供给大家用于学习，但请不要滥用哦~
+          本站免费提供给大家用于学习，但请不要滥用哦~<br/>
           没余额了记得提醒我一下
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
